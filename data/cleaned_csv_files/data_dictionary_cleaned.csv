@@ -1,0 +1,10 @@
+file_name,record_count,description
+hubs.csv,8,operational hubs and control points
+customers.csv,650,customer master data with engagement and loyalty metrics
+drivers.csv,170,driver workforce data with training and rating information
+vehicles.csv,120,fleet asset data including battery and maintenance indicators
+orders.csv,1250,service orders across mobility and logistics operations
+deliveries.csv,950,operational dispatch and completion outcomes
+incidents.csv,280,delivery and asset incident records
+complaints.csv,320,customer complaints and compensation handling
+app_events.csv,640,digital platform events suitable for mongodb reshaping
